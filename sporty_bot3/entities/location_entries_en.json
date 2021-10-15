@@ -1,0 +1,40 @@
+[
+  {
+    "value": "hougang",
+    "synonyms": [
+      "hougang"
+    ]
+  },
+  {
+    "value": "punggol",
+    "synonyms": [
+      "punggol",
+      "ponggol"
+    ]
+  },
+  {
+    "value": "bishan",
+    "synonyms": [
+      "bishan"
+    ]
+  },
+  {
+    "value": "tampines",
+    "synonyms": [
+      "tampines",
+      "tamp"
+    ]
+  },
+  {
+    "value": "kallang",
+    "synonyms": [
+      "kallang"
+    ]
+  },
+  {
+    "value": "clementi",
+    "synonyms": [
+      "clementi"
+    ]
+  }
+]

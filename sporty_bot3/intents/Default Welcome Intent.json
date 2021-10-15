@@ -1,0 +1,40 @@
+{
+  "id": "dc7f1de3-aec3-48c8-ba2d-91c163998309",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hello I\u0027m Sporty Botbot! I can assist in facility bookings and answering any questions about our facilities. How can I help you?",
+            "Good day, I\u0027m Sporty Botbot! I can assist in facility bookings and answering any questions about our facilities. What can I do for you today?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

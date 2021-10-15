@@ -1,0 +1,133 @@
+{
+  "id": "5a9f493d-6258-4789-9731-46f8303f4749",
+  "name": "facility_booking",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "booking_info",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "5fbcb45d-0a29-4447-a695-ffece0080be4",
+          "name": "phone",
+          "required": true,
+          "dataType": "@sys.number",
+          "value": "$phone",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Can I get your phone number?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "abdfc512-86ce-47c4-8ea3-dd3198e83228",
+          "name": "email",
+          "required": true,
+          "dataType": "@sys.email",
+          "value": "$email",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What is your email?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "160a5209-c9fc-48ee-a547-f4979be16c0f",
+          "name": "sport",
+          "required": true,
+          "dataType": "@sport",
+          "value": "$sport",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What sport would you like to make a booking for? We have badminton, tennis, basketball, gym and swimming pool facilities."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "97d2d0c1-f510-4b52-8dba-4524cd886c50",
+          "name": "location",
+          "required": true,
+          "dataType": "@location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "At which outlet would you like to make the booking at? Bishan, Clementi, Hougang, Kallang, Punggol and Tampines."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "fc7435fe-1794-4c49-ac4f-a856d9923976",
+          "name": "time",
+          "required": true,
+          "dataType": "@time",
+          "value": "$time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What time would you like to book? We are open from 10am to 9pm. Booking slots are for every hour."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

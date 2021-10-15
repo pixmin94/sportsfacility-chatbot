@@ -1,0 +1,56 @@
+{
+  "id": "9d699f5a-2c58-4d19-9f7d-090ba250ca53",
+  "name": "speak_to_rep",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "49ebf4d2-9f93-42e5-9fb4-cce7efcc12eb",
+          "name": "phone",
+          "required": true,
+          "dataType": "@sys.number",
+          "value": "$phone",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please give me your phone number and a representative will contact you shortly."
+            },
+            {
+              "lang": "en",
+              "value": "Of course! Please input your phone number so that a customer service representative may call you back."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

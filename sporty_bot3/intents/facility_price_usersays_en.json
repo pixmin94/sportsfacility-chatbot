@@ -1,0 +1,76 @@
+[
+  {
+    "id": "ad879ef7-1a33-477a-9f71-0940be20d573",
+    "data": [
+      {
+        "text": "how much do i have to pay for ",
+        "userDefined": false
+      },
+      {
+        "text": "tennis",
+        "meta": "@sport",
+        "alias": "sport",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f1034056-bc9a-4b6a-aec4-99bc1e4b7012",
+    "data": [
+      {
+        "text": "what is the peak hour price for ",
+        "userDefined": false
+      },
+      {
+        "text": "badminton",
+        "meta": "@sport",
+        "alias": "sport",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6fd4c672-cabb-482e-a32d-b84557b7dbe5",
+    "data": [
+      {
+        "text": "what is the price to book",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ffa7006d-6c6c-4dfc-9612-23b9110beb87",
+    "data": [
+      {
+        "text": "how much to book a ",
+        "userDefined": false
+      },
+      {
+        "text": "gym",
+        "meta": "@sport",
+        "alias": "sport",
+        "userDefined": true
+      },
+      {
+        "text": " during off peak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

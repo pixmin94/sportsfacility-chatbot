@@ -1,0 +1,50 @@
+{
+  "id": "ec88093e-e601-4d21-add3-067c84f204e6",
+  "name": "facility_price",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0c36f3e3-41b9-45ec-b850-ee9fb1bf74ba",
+          "name": "sport",
+          "required": false,
+          "dataType": "@sport",
+          "value": "$sport",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Our facilities are charged at $3/hour for non-peak and $6/hour for peak timings. Peak hours are during weekdays after 5pm and all day on weekends."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

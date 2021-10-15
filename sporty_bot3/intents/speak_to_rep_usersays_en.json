@@ -1,0 +1,131 @@
+[
+  {
+    "id": "ad4b96da-d940-4e30-a3a5-2e5328d911cf",
+    "data": [
+      {
+        "text": "What is your email?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "76e460f3-1fec-46ea-abd7-6fb787cab5ea",
+    "data": [
+      {
+        "text": "Do you have a number I can call?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1cb8703a-b16c-4178-837e-ccb720b2b991",
+    "data": [
+      {
+        "text": "Can I speak to someone real",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2f58c1fd-286e-47d9-acdb-89cc11fd1ef2",
+    "data": [
+      {
+        "text": "No I don\u0027t think you can help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1e16d739-7e1e-4aed-baef-7ea42c4e7e89",
+    "data": [
+      {
+        "text": "You\u0027re not answering my questions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "622be9f9-308f-4bf2-bc0e-0673798b48a0",
+    "data": [
+      {
+        "text": "I would like to talk to a person please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "31afb211-65c4-4f8f-9501-b4d42d43a850",
+    "data": [
+      {
+        "text": "Is there a phone I can call in ",
+        "userDefined": false
+      },
+      {
+        "text": "123",
+        "meta": "@sys.number",
+        "alias": "phone",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e5239248-e9b4-49bf-b1fc-84960a8f596b",
+    "data": [
+      {
+        "text": "Can I speak to somebody ",
+        "userDefined": false
+      },
+      {
+        "text": "9",
+        "meta": "@sys.number",
+        "alias": "phone",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e8fbfa71-89d3-4fb7-b35a-175e761b0745",
+    "data": [
+      {
+        "text": "Hi how do I contact a person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

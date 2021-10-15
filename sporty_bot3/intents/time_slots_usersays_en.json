@@ -1,0 +1,41 @@
+[
+  {
+    "id": "7f200752-60f7-4aac-a671-35a4258b2ac7",
+    "data": [
+      {
+        "text": "got what time can reserve",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ffec48f8-4f22-44c1-b43e-3a1f8369a86c",
+    "data": [
+      {
+        "text": "what time slow are available to be book",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "85a2a03f-910a-4aad-92c9-f1635e7fe070",
+    "data": [
+      {
+        "text": "what time slots are there",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

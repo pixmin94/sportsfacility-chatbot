@@ -1,0 +1,94 @@
+[
+  {
+    "id": "00593d17-a137-4824-acd2-87bcb7cc3393",
+    "data": [
+      {
+        "text": "how to book longer than ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " hour",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cbb150c4-ed80-433b-a258-9e275a23e827",
+    "data": [
+      {
+        "text": "can I book more than ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " hour",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5cc49722-18c5-4ed6-9565-2dbd9c17ad36",
+    "data": [
+      {
+        "text": "Can I do a booking for ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " hours",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e9e3b959-41ad-4ff0-841c-3b89a56e7d4e",
+    "data": [
+      {
+        "text": "I want to book more slots",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "02360aa4-85e0-43b9-8e28-c3107480d240",
+    "data": [
+      {
+        "text": "can I make multiple bookings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "680f92cb-9577-4962-8a3b-f40e1531609e",
+    "data": [
+      {
+        "text": "check booking for ",
+        "userDefined": false
+      },
+      {
+        "text": "87654321",
+        "meta": "@sys.number",
+        "alias": "phone",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e5771eb2-78e0-4bea-a1db-10a4f14bedec",
+    "data": [
+      {
+        "text": "i would like to see my booking information",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e38d4d3f-c806-4dfc-b391-6b5414d0a716",
+    "data": [
+      {
+        "text": "may i confirm my booking details",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e34dd140-70e9-4c8e-b939-b151d0a89e09",
+    "data": [
+      {
+        "text": "can i check my booking details",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "value": "badminton",
+    "synonyms": [
+      "badminton"
+    ]
+  },
+  {
+    "value": "gym",
+    "synonyms": [
+      "gym"
+    ]
+  },
+  {
+    "value": "swimming",
+    "synonyms": [
+      "swimming",
+      "swimming pool",
+      "pool",
+      "swim",
+      "swim class",
+      "swim classes"
+    ]
+  },
+  {
+    "value": "tennis",
+    "synonyms": [
+      "tennis"
+    ]
+  },
+  {
+    "value": "basketball",
+    "synonyms": [
+      "basketball"
+    ]
+  }
+]

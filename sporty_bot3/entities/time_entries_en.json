@@ -1,0 +1,142 @@
+[
+  {
+    "value": "10am",
+    "synonyms": [
+      "10am",
+      "10",
+      "10:00",
+      "10AM",
+      "1000",
+      "10 am"
+    ]
+  },
+  {
+    "value": "11am",
+    "synonyms": [
+      "11am",
+      "11",
+      "11:00",
+      "11AM",
+      "1100",
+      "11 am"
+    ]
+  },
+  {
+    "value": "12pm",
+    "synonyms": [
+      "12pm",
+      "12",
+      "12:00",
+      "12 noon",
+      "1200",
+      "12 pm"
+    ]
+  },
+  {
+    "value": "1pm",
+    "synonyms": [
+      "1pm",
+      "1",
+      "1:00",
+      "1 afternoon",
+      "1300",
+      "1 pm"
+    ]
+  },
+  {
+    "value": "2pm",
+    "synonyms": [
+      "2pm",
+      "2",
+      "2:00",
+      "2PM",
+      "2 afternoon",
+      "1400",
+      "2 pm"
+    ]
+  },
+  {
+    "value": "3pm",
+    "synonyms": [
+      "3pm",
+      "3",
+      "3:00",
+      "3PM",
+      "3 afternoon",
+      "1500",
+      "3 pm"
+    ]
+  },
+  {
+    "value": "4pm",
+    "synonyms": [
+      "4pm",
+      "4",
+      "4:00",
+      "4PM",
+      "4 afternoon",
+      "1600",
+      "4 pm"
+    ]
+  },
+  {
+    "value": "5pm",
+    "synonyms": [
+      "5pm",
+      "5",
+      "5:00",
+      "5 afternoon",
+      "1700",
+      "5PM",
+      "5 pm"
+    ]
+  },
+  {
+    "value": "6pm",
+    "synonyms": [
+      "6pm",
+      "6",
+      "6:00",
+      "6 evening",
+      "1800",
+      "6 pm",
+      "6PM"
+    ]
+  },
+  {
+    "value": "7pm",
+    "synonyms": [
+      "7pm",
+      "7",
+      "7:00",
+      "7 evening",
+      "1900",
+      "7 pm",
+      "7PM"
+    ]
+  },
+  {
+    "value": "8pm",
+    "synonyms": [
+      "8pm",
+      "8",
+      "8:00",
+      "8 evening",
+      "2000",
+      "8 pm",
+      "8PM"
+    ]
+  },
+  {
+    "value": "9pm",
+    "synonyms": [
+      "9pm",
+      "9",
+      "9:00",
+      "9 night",
+      "2100",
+      "9 pm",
+      "9PM"
+    ]
+  }
+]
